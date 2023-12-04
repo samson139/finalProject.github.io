@@ -33,7 +33,15 @@ body {
   font-size: 1.1rem;
   color: beige;
 }
-
+#navElemets a:visited {
+  color: rgb(23, 106, 56);
+}
+#navElements a:hover {
+  color: red;
+}
+#navElements a:active {
+  color: yellow;
+}
 #headText {
   width: 100%;
   margin-left: 10%;
